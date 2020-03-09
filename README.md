@@ -19,7 +19,7 @@
 
 ### A quick and dirty FAQ
 
-#### Q: This is the worst turntable ever.  You're a horrible human being.  
+#### Q: This is the worst turntable ever.  You're a horrible human being.
 A: ... Seriously?   It's a fricking 3D Printed record player.  If it's not cool enough, go design your own before criticising me.  When you do, ping me, because I'll tell you it's fucking awesome and want to buy you a beer.
 
 #### Q: Why did you pick this motor?

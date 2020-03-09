@@ -43,6 +43,9 @@ A: Yep it does.  I'm unsure why this happens, but my guess is it's to do with th
 Q: I saw the video and your beard is glorious, how can I have one?
 A: Don't shave for a bit.  Then after you do that, rub it against a bee hive, ignoring the hundreds of stings from angry bees, until sufficient wax is in the beard, then mould and comb the bear into shape.  Or use product, whichever is easier.
 
+Q: How do you sleep at night?
+A: On a bed filled with shattered dreams, unused parts and broken records.  But I have your mom to keep me company, so there is that...
+
 If you're looking for great sound, go spend a few thousand on a good turntable (I have).  If you're looking for a fun experiment, keep reading... :) 
 
 This project is not for beginners.  It implies a basic knowledge of electronics, arduino and sufficient skills to be able to 3D Print the parts.  All of these parts can be substituted, and hacking this to make it better is strongly encouraged.

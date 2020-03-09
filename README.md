@@ -19,34 +19,41 @@
 
 ### A quick and dirty FAQ
 
-Q: This is the worst turntable ever.  You're a horrible human being.  
+#### Q: This is the worst turntable ever.  You're a horrible human being.  
 A: ... Seriously?   It's a fricking 3D Printed record player.  If it's not cool enough, go design your own before criticising me.  When you do, ping me, because I'll tell you it's fucking awesome and want to buy you a beer.
 
-Q: Why did you pick this motor?
+#### Q: Why did you pick this motor?
 A: I wanted something super cheap and off the shelf.  It had to be cheap, have enough torque, and be controlled with 12v.   Yes, it's noisy, but this is a proof of concept and I can source a better motor later.
 
-Q: Why did you use Direct Drive?
+#### Q: Why did you use Direct Drive?
 A: I actually did the first version with belt drive, but the maths for pulley ratio and centers gets annoying when you are testing lots of different motors, which I did.
 
-Q: Why did you hotglue on a cartridge?
+#### Q: Why did you hotglue on a cartridge?
 A: This is a super cheap cartridge.  I got 3 for $10 delivered.  And frankly, using hotglue connector for this level of quality of a device is not a big deal.  Yes, it might be misaligned, but it's an experiment!  
 
-Q: Why did you use a ceramic cartridge?
+#### Q: Why did you use a ceramic cartridge?
 A: It's cheap!
 
-Q: How can I align the cartridge?
-A: Buy a better quality cartridge, then you can.  The tone arm has slots at the standard distances for a cartridge, but frankly, you have other problems that need to be solved before spending cash on a good cartridge for this device!
-
-Q: The platter wobbles.  
+#### Q: The platter wobbles.  
 A: Yep it does.  I'm unsure why this happens, but my guess is it's to do with the Z axis on printers being not terribly accurate.  If it is out of plumb by even 0.1 degree that would translate to a 300mm platter wobble of 0.5 millimeter. 
 
-Q: I saw the video and your beard is glorious, how can I have one?
+#### Q: I saw the video and your beard is glorious, how can I have one?
 A: Don't shave for a bit.  Then after you do that, rub it against a bee hive, ignoring the hundreds of stings from angry bees, until sufficient wax is in the beard, then mould and comb the bear into shape.  Or use product, whichever is easier.
 
-Q: How do you sleep at night?
+#### Q: How can I align the cartridge?
+A: Buy a better quality cartridge, then you can.  The tone arm has slots at the standard distances for a cartridge, but frankly, you have other problems that need to be solved before spending cash on a good cartridge for this device!
+
+#### Q: How do you sleep at night?
 A: On a bed filled with shattered dreams, unused parts and broken records.  But I have your mom to keep me company, so there is that...
 
-If you're looking for great sound, go spend a few thousand on a good turntable (I have).  If you're looking for a fun experiment, keep reading... :) 
+#### Q: I saw it on Youtube and it sounds terrible 
+A: It's a proof of concept made from off the shelf parts and 3D Printing.  How are you not getting this?  
+
+## A quick note
+
+This is a cool project and a bit of a lark.  Don't take it too seriously.
+
+If you're looking for great sound, go spend a few thousand on a good turntable (I have).  If you're looking for a fun experiment, keep reading... :)  It's shoddily made, won't sound amazing, but I guantee your friends will say "WOAH THAT IS COOL" if you make one.  Don't put your expensive records on it, it's a fun project that may damage them.  
 
 This project is not for beginners.  It implies a basic knowledge of electronics, arduino and sufficient skills to be able to 3D Print the parts.  All of these parts can be substituted, and hacking this to make it better is strongly encouraged.
 
